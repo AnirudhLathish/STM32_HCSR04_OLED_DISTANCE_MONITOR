@@ -52,5 +52,4 @@ The distance is also transmitted through UART and monitored using an ESP32 seria
 
 
 
-Anirudh Lalith
-ECE Student | Embedded Systems Enthusiast
+
