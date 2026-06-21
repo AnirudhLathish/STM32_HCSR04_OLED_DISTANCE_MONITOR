@@ -47,9 +47,3 @@ The distance is also transmitted through UART and monitored using an ESP32 seria
 - I2C OLED Interfacing
 - Sensor Interfacing
 - Embedded C Programming
-
-
-
-
-
-
